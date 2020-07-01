@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Breaking bad",
+  "description": "The breaking bad quote extension",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "bb.png",
+    "default_popup": "index.html"
+  }
+}
